@@ -1,0 +1,15 @@
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\bin\Debug\net6.0\Syntax_Exercise.exe
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\bin\Debug\net6.0\Syntax_Exercise.deps.json
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\bin\Debug\net6.0\Syntax_Exercise.runtimeconfig.json
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\bin\Debug\net6.0\Syntax_Exercise.dll
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\bin\Debug\net6.0\Syntax_Exercise.pdb
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.csproj.AssemblyReference.cache
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.AssemblyInfoInputs.cache
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.AssemblyInfo.cs
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.dll
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\refint\Syntax_Exercise.dll
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.pdb
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\Syntax_Exercise.genruntimeconfig.cache
+C:\Users\Travis\source\repos\Syntax_Exercise\Syntax_Exercise\obj\Debug\net6.0\ref\Syntax_Exercise.dll
